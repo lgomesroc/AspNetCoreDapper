@@ -1,0 +1,14 @@
+/Users/wlad/Desktop/AspNetCoreDapper/obj/Debug/netcoreapp2.0/AspNetCoreDapper.csproj.CoreCompileInputs.cache
+/Users/wlad/Desktop/AspNetCoreDapper/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/wlad/Desktop/AspNetCoreDapper/obj/Debug/netcoreapp2.0/AspNetCoreDapper.AssemblyInfoInputs.cache
+/Users/wlad/Desktop/AspNetCoreDapper/obj/Debug/netcoreapp2.0/AspNetCoreDapper.AssemblyInfo.cs
+/Users/wlad/Desktop/AspNetCoreDapper/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/wlad/Desktop/AspNetCoreDapper/bin/Debug/netcoreapp2.0/AspNetCoreDapper.deps.json
+/Users/wlad/Desktop/AspNetCoreDapper/bin/Debug/netcoreapp2.0/AspNetCoreDapper.runtimeconfig.json
+/Users/wlad/Desktop/AspNetCoreDapper/bin/Debug/netcoreapp2.0/AspNetCoreDapper.runtimeconfig.dev.json
+/Users/wlad/Desktop/AspNetCoreDapper/bin/Debug/netcoreapp2.0/AspNetCoreDapper.dll
+/Users/wlad/Desktop/AspNetCoreDapper/bin/Debug/netcoreapp2.0/AspNetCoreDapper.pdb
+/Users/wlad/Desktop/AspNetCoreDapper/obj/Debug/netcoreapp2.0/AspNetCoreDapper.dll
+/Users/wlad/Desktop/AspNetCoreDapper/obj/Debug/netcoreapp2.0/AspNetCoreDapper.pdb
+C:\Users\lgome\OneDrive\Área de Trabalho\AspNetCoreDapper\obj\Debug\netcoreapp2.0\AspNetCoreDapper.dll
+C:\Users\lgome\OneDrive\Área de Trabalho\AspNetCoreDapper\obj\Debug\netcoreapp2.0\AspNetCoreDapper.pdb
